@@ -1,4 +1,4 @@
 These are the original contents of file 1.
 
 
-Fixed the conflicttttt file again
+Fixed the conflict file again
