@@ -1,3 +1,4 @@
 These are the original contents of file 1.
 
-Updated the file -- I want my changes to be saved!
+
+Fixed the conflicted files again
