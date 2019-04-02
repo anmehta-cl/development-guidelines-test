@@ -2,4 +2,4 @@ These are the original contents of file 1.
 
 Updated the file for the
 
-Fixed the file again
+Fixed the file --- test me --- again
