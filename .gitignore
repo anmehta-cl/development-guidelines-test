@@ -1,2 +1,5 @@
 
 *.xml
+.idea/development-guidelines-test.iml
+.idea/codeStyles/Project.xml
+.idea/workspace.xml
