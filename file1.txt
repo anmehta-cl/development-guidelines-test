@@ -1,5 +1,5 @@
 These are the original contents of file 1.
 
-Updated the file because I felt like it
+Updated the file for the
 
 Fixed the file again
