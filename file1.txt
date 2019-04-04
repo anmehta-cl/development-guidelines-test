@@ -2,3 +2,5 @@ These are the original contents of file 1.
 
 
 Fixed the conflicted file again.
+
+More changes.
